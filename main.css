@@ -13,10 +13,10 @@
 	float: center;	
 }
 
-/* want the welcome screen to fade in zoom
+/* want the welcome screen to fade in zoom */
 .welcome { 
 	transition: ease-in;
-} */
+}
 
 button:hover {
 	cursor: pointer;
